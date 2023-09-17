@@ -487,6 +487,10 @@ div#portfoliolist {
 }
 .about .img-responsive{
 	border-radius: 16px;
+	filter: grayscale(1);
+}
+.about .img-responsive:hover{
+	filter: grayscale(0);
 }
 .about h3 span.left-icon {
   background: url(../images/left.png) no-repeat 0px 10px;
