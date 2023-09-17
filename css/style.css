@@ -127,7 +127,7 @@ div#banner-top h1 span.right-icon {
 div#banner-top h2 {
   font-size: 3.6em;
   padding: .5em 0;
-  width: 99%;
+  width: 90%;
   margin: 0 auto;
    color:#000;
 }
@@ -484,6 +484,9 @@ div#portfoliolist {
 }
 .about p {
   font-size: 1.3em;
+}
+.about .img-responsive{
+	border-radius: 16px;
 }
 .about h3 span.left-icon {
   background: url(../images/left.png) no-repeat 0px 10px;
